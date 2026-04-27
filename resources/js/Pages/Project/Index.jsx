@@ -83,7 +83,7 @@ export default function index({ auth, projects, queryParams = null }) {
                                             <div className=" flex items-center justify-between gap-1 cursor-pointer">
                                                 Name
                                                 <div>
-                                                    <ChevronUpIcon className="w-4 "/>
+                                                    <ChevronUpIcon className="w-4"/>
                                                     <ChevronDownIcon className="w-4 -mt-2" />
                                                 </div>
                                             </div>
